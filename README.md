@@ -2,7 +2,7 @@
 
 Propuesta de solución al [ejercicio de recruitment del repositorio de Frogtek](https://github.com/Frogtek/recruitment-tests).
 
-[GitHub Pages](https://adecora.github.io/jekyll) | [GitHub Repo](https://github.com/adecora/jekyll).
+[GitHub Pages](https://adecora.github.io/frogtek-recruitment-tests) | [GitHub Repo](https://github.com/adecora/frogtek-recruitment-tests).
 
 --Por Alejandro Varela de Cora.
 
