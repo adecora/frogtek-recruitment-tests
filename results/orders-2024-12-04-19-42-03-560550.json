@@ -1,0 +1,5 @@
+{"Type": "OrderAccepted", "Data": {"OrderId": "52ceb8d9-f288-470a-8bff-04cabae8c69f", "TimestampUtc": "2024-12-04T19:42:03Z"}}
+{"Type": "OrderPlaced", "Data": {"OrderId": "01d34f59-9465-44cc-9303-2772e3c17fc3", "TimestampUtc": "2024-12-04T19:42:03Z"}}
+{"Type": "OrderAccepted", "Data": {"OrderId": "8439df97-c1ef-4875-8f12-d8b78bd9641d", "TimestampUtc": "2024-12-04T19:42:03Z"}}
+{"Type": "OrderPlaced", "Data": {"OrderId": "bf16c2d0-4203-4dc5-a25b-47a08bf35448", "TimestampUtc": "2024-12-04T19:42:03Z"}}
+{"Type": "OrderCancelled", "Data": {"OrderId": "5a266cdf-36a8-43df-9c19-f6f6d690d6c2", "TimestampUtc": "2024-12-04T19:42:03Z"}}
